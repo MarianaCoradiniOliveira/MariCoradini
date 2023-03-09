@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MariCoradini
-- 👀 I’m interessada em desenolvimento front-end
-- 🌱 I’m currently learning  JavaScrip
+- 👋 Hi, I’m @MarianaCoradini
+- 👀 I’m interessada em developer mobile
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : mariana.coradinioliveira@gmail.com
 
