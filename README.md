@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarianaCoradini
-- 👀 I’m interessada em developer mobile
+- 👀 I’m interessada em desenvolviemnto java
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : mariana.coradinioliveira@gmail.com
